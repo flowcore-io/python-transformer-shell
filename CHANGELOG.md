@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/flowcore-io/python-transformer-shell/compare/v1.1.0...v1.1.1) (2023-09-20)
+
+
+### Bug Fixes
+
+* bumped to latest version to fix multi load issue ([5cc7ec1](https://github.com/flowcore-io/python-transformer-shell/commit/5cc7ec1880b27b006fab6400170e638f62ba11bc))
+
 ## [1.1.0](https://github.com/flowcore-io/python-transformer-shell/compare/v1.0.0...v1.1.0) (2023-09-20)
 
 
