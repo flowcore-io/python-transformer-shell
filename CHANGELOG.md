@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.4](https://github.com/flowcore-io/python-transformer-shell/compare/v1.1.3...v1.1.4) (2023-09-20)
+
+
+### Bug Fixes
+
+* changed run command to be dynamic ([95ca038](https://github.com/flowcore-io/python-transformer-shell/commit/95ca038d9e99a921877a7662cd086e9dfa094c2a))
+
 ## [1.1.3](https://github.com/flowcore-io/python-transformer-shell/compare/v1.1.2...v1.1.3) (2023-09-20)
 
 
