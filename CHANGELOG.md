@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.2](https://github.com/flowcore-io/python-transformer-shell/compare/v1.1.1...v1.1.2) (2023-09-20)
+
+
+### Bug Fixes
+
+* added UVICORN host env ([5e1ffa1](https://github.com/flowcore-io/python-transformer-shell/commit/5e1ffa1b6fed4652b701d48ced8e7ad8e2f6f19e))
+* simplified python execution ([5f01c97](https://github.com/flowcore-io/python-transformer-shell/commit/5f01c976a480fe3c78ed8d9559aea1bd180bc675))
+
 ## [1.1.1](https://github.com/flowcore-io/python-transformer-shell/compare/v1.1.0...v1.1.1) (2023-09-20)
 
 
