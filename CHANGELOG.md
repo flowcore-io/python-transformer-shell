@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/flowcore-io/python-transformer-shell/compare/v1.1.2...v1.1.3) (2023-09-20)
+
+
+### Bug Fixes
+
+* fixed base url ([96c20c2](https://github.com/flowcore-io/python-transformer-shell/commit/96c20c27291be9b450b30873bbe7c45d0d4db196))
+
 ## [1.1.2](https://github.com/flowcore-io/python-transformer-shell/compare/v1.1.1...v1.1.2) (2023-09-20)
 
 
