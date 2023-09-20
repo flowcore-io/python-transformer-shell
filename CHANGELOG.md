@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/flowcore-io/python-transformer-shell/compare/v1.0.0...v1.1.0) (2023-09-20)
+
+
+### Features
+
+* added python with hooks ([20370a4](https://github.com/flowcore-io/python-transformer-shell/commit/20370a444b112a65be86cc73e918f09af4bdc69f))
+
 ## 1.0.0 (2023-09-19)
 
 
