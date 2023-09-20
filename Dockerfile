@@ -11,7 +11,7 @@ RUN pip3 install --no-cache --upgrade pip setuptools
 ENV HOOK_PRE_LOAD="python -m venv .venv"
 ENV TRANSFORMER_DEPENDENCY_COMMAND="source .venv/bin/activate && pip install --isolated -r requirements.txt"
 ENV TRANSFORMER_DEPENDENCY_FILE="requirements.txt"
-ENV TRANSFORMER_RUN_COMMAND="source .venv/bin/activate && python main.py"
+ENV TRANSFORMER_RUN_COMMAND="source .venv/bin/activate && python {}"
 ENV TRANSFORMER_BASE_URL="http://127.0.0.1"
 ENV TRANSFORMERS="python"
 
