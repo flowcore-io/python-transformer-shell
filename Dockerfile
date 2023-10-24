@@ -1,4 +1,4 @@
-FROM flowcoreio/adapter-nodejs-transformer-shell:1.9.1
+FROM flowcoreio/adapter-nodejs-transformer-shell:2.0.5
 
 USER root
 # install python3
