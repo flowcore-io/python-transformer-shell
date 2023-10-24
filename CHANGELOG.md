@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/flowcore-io/python-transformer-shell/compare/v2.0.0...v2.0.1) (2023-10-24)
+
+
+### Bug Fixes
+
+* fixed transformer shell version to one that respects the custom run command ([11f4d69](https://github.com/flowcore-io/python-transformer-shell/commit/11f4d69f155266633d50805a1f599c21a7e873fd))
+
 ## [2.0.0](https://github.com/flowcore-io/python-transformer-shell/compare/v1.1.4...v2.0.0) (2023-10-24)
 
 
