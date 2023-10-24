@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/flowcore-io/python-transformer-shell/compare/v1.1.4...v2.0.0) (2023-10-24)
+
+
+### ⚠ BREAKING CHANGES
+
+* bumped to transformer shell v2
+
+### Features
+
+* bumped to transformer shell v2 ([e0562d0](https://github.com/flowcore-io/python-transformer-shell/commit/e0562d0288b5f44f692df782b9673f456c99c6e5))
+
 ## [1.1.4](https://github.com/flowcore-io/python-transformer-shell/compare/v1.1.3...v1.1.4) (2023-09-20)
 
 
