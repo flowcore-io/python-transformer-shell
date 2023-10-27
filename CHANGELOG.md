@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.3](https://github.com/flowcore-io/python-transformer-shell/compare/v2.0.2...v2.0.3) (2023-10-27)
+
+
+### Bug Fixes
+
+* bumped to version with bi-temporal and delete support ([0073172](https://github.com/flowcore-io/python-transformer-shell/commit/00731724f0fa2ec3ccceee3f1d29f634935c0c7c))
+
 ## [2.0.2](https://github.com/flowcore-io/python-transformer-shell/compare/v2.0.1...v2.0.2) (2023-10-25)
 
 
