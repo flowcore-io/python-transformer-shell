@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/flowcore-io/python-transformer-shell/compare/v2.0.3...v2.1.0) (2023-12-05)
+
+
+### Features
+
+* bumped transformer shell base ([6b37b21](https://github.com/flowcore-io/python-transformer-shell/commit/6b37b21ea1fb6924eea7919a4eeed67cf246ce7b))
+
 ## [2.0.3](https://github.com/flowcore-io/python-transformer-shell/compare/v2.0.2...v2.0.3) (2023-10-27)
 
 
